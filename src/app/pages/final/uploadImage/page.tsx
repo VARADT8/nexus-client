@@ -80,7 +80,7 @@ const UploadImagePage = () => {
 
     try {
       const endpoint = name === "scoliosis" ? "/predict2" : "/predict";
-      const response = await fetch(`http://localhost:5000${endpoint}`, {
+      const response = await fetch(`http://10.160.0.2:5000${endpoint}`, {
         method: "POST",
         body: formData,
       });
