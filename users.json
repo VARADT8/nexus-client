@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "email": "thakrevarad8@gmail.com",
+    "password": "$2a$10$fjBpYjkme9fUI6Y22eG.DeRcIb9TWm1eDYUJfWO1lXU7BlE.virDG",
+    "answer": "hhh"
+  },
+  {
+    "id": 2,
+    "email": "testuser@example.com",
+    "password": "$2a$10$rQJDZlKKOlC4LfhsA/t0U.SdZQe5yIsj6aV865iCWTHwWDUPJ7reW",
+    "answer": "cricket"
+  }
+]
